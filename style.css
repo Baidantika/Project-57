@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+#picture{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    margin-bottom:50px;
+    margin-top:100px; 
+}
+#welcome{
+    background:linear-gradient(#4307f7 0%,#12d6e0 100%);
+    position:absolute;
+    height:800px;
+    width:100%;
+}
+#bio{
+    padding-top: 800px;
+    background:linear-gradient(#e81902 0%,#ff9808 100%);
+
+}
+.line{
+    height:6px;
+    width:50px;
+    background-color: chartreuse;
+    margin:8px auto;
+}
+#heading1{
+    font-size:20px;
+    color: cyan;
+    
+}
+#about{
+    font-size:30px;
+    font-family: serif;
+}
+#name{
+    font-family:sans-serif;
+    font-size:40px;
+    color: darkmagenta;
+    
+        
+    
+}
+#head{
+    font-family: cursive;
+    font-size: 40px;
+    color:crimson;
+    
+}
+#hobbyhead{
+    font-size:20px;
+    color: cornflowerblue;
+        
+    
+}
